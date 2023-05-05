@@ -1,22 +1,5 @@
 ﻿{
-    "Url": "www.epdata.es/variacion-poblacion-espana-ultimo-ano/0a263b1d-e6c4-492f-802a-f812332116e2",
-    "Respuesta": {
-        "Id": "0a263b1d-e6c4-492f-802a-f812332116e2",
-        "Url": "www.epdata.es/variacion-poblacion-espana-ultimo-ano/0a263b1d-e6c4-492f-802a-f812332116e2",
-        "Titulo": "Variación de la población de España en el último año ",
-        "Subtitulo": "",
-        "Datos": {
-            "Metricas": [
-                {
-                    "Id": 0,
-                    "Nombre": "Cifras de población a nivel semestral - Variación absoluta de Número de personas con respecto al mismo semestre del año anterior para total como sexo, total como grupo quinquenal de edad, España como país de residencia y Total como país de nacionalidad",
-                    "SonDatosNumericos": true,
-                    "Fuente": "INE",
-                    "Clasificacion": null,
-                    "Unidad": "Número de personas",
-                    "Escala": "Unidades",
-                    "EscalaFactorPotencia10": 0,
-                    "Datos": [
+  
                         {
                             "Agno": 2003,
                             "Periodo": "Semestre 1",
